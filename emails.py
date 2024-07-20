@@ -77,3 +77,9 @@ def main():
 # Execute the main function
 if __name__ == '__main__':
     main()
+#----------------------------------------------------------------------
+    '''for this file 
+    Change the output path for your pc
+    university_name = houston
+    specialty1 = cardiology
+    specialty2=cardiovascular'''
